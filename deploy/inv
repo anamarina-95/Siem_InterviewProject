@@ -1,0 +1,2 @@
+[Prod]
+172.31.30.149 ansible_user=devops  ansible_ssh_pass=today@1234
